@@ -11,15 +11,7 @@
   <a href="https://my-portfolio-one-blond-95.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10002B?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
 # 💫 About Me
-Heyy,
-This is **Saurabh Kumar Jha**, a passionate B.Tech Computer Science student and Software Development Engineer with a strong interest in building scalable applications, solving real-world problems through technology, and continuously exploring emerging innovations in software engineering.
-My primary areas of interest include **Full Stack Development, Artificial Intelligence, Machine Learning, Data Science, Cloud Computing, DevOps, Backend Engineering, Mobile Application Development, and System Design**.
-I enjoy building scalable web applications, exploring intelligent systems, and solving real-world problems through technology. My interests span across software engineering, backend architecture, machine learning, and cloud-native development.
-Currently, I'm focused on strengthening my expertise in modern web technologies, DevOps practices, and AI-powered applications while continuously learning and building impactful projects.
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-📍 Based in Dehradun, India
+A passionate B.Tech Computer Science student and Software Development Engineer with a strong interest in building scalable applications, solving real-world problems through technology, and continuously exploring emerging innovations in software engineering. Currently, I'm focused on strengthening my expertise in modern web technologies, DevOps practices, and AI-powered applications while continuously learning and building impactful projects.
 🚀 Always building, learning, and exploring new technologies.
 
 # 💻 Tech Stack
