@@ -1,3 +1,15 @@
+<!-- Header Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,18,24&text=Saurabh%20Kumar%20Jha&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=22"/>
+</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=4000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Research+Explorer;Cloud+%26+DevOps+Learner;Building+the+Future+with+Code" />
+</p>
+<div align="center">
+  <a href="mailto:Saurabhkumarjha011@gmail.com"><img src="https://img.shields.io/badge/Email-10002B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saurabh-kumar-jha-282399328/"><img src="https://img.shields.io/badge/LinkedIn-10002B?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
+  <a href="https://my-portfolio-one-blond-95.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10002B?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</div>
 # 💫 About Me
 Heyy,
 This is **Saurabh Kumar Jha**, a passionate B.Tech Computer Science student and Software Development Engineer with a strong interest in building scalable applications, solving real-world problems through technology, and continuously exploring emerging innovations in software engineering.
