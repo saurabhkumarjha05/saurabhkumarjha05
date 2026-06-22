@@ -15,9 +15,14 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
+ <td width="50%" valign="top" style="border:none;">
 # 💫 About Me
 A passionate B.Tech Computer Science student and Software Development Engineer with a strong interest in building scalable applications, solving real-world problems through technology, and continuously exploring emerging innovations in software engineering. Currently, I'm focused on strengthening my expertise in modern web technologies, DevOps practices, and AI-powered applications while continuously learning and building impactful projects.
 🚀 Always building, learning, and exploring new technologies.
+ </td> 
+<td width="50%" valign="top" style="border:none;">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30%" />
+</td>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
@@ -32,7 +37,13 @@ A passionate B.Tech Computer Science student and Software Development Engineer w
   <br><br>
 
   <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,git,github,vscode&theme=dark" />
-  <br><br>
+  <br>
+  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
+  
+  <br>
 
   <img src="https://skillicons.dev/icons?i=linux,mongodb,postman,figma,render&theme=dark" />
 </div>
