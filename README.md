@@ -71,4 +71,4 @@ A passionate B.Tech Computer Science student and Software Development Engineer w
 - 🛠️ If a technology looks challenging, I usually end up learning it.
 - 🌱 Constantly exploring new tools, frameworks, and development workflows.
   
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60%" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
