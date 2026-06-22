@@ -17,16 +17,24 @@
 
 
 # 💫 About Me  
-<br> <table align="center" style="background-color: transparent; border:none;">
-  <tr style="border:none;">
-    <td width="50%" valign="top" style="border:none;">
-A passionate B.Tech Computer Science student and Software Development Engineer with a strong interest in building scalable applications, solving real-world problems through technology, and continuously exploring emerging innovations in software engineering. Currently, I'm focused on strengthening my expertise in modern web technologies, DevOps practices, and AI-powered applications while continuously learning and building impactful projects.
-🚀 Always building, learning, and exploring new technologies. <br>
- </td>
- 
-<td width="50%" valign="top" style="border:none;">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30%" />
+  <table>
+<tr>
+<td width="60%" valign="top">
+
+A passionate **B.Tech Computer Science student** and aspiring **Software Development Engineer** with a strong interest in building scalable applications, solving real-world problems through technology, and continuously exploring emerging innovations in software engineering.
+Currently, I'm focused on strengthening my expertise in **Modern Web Development, DevOps, Cloud Computing, Artificial Intelligence, and System Design** while continuously learning and building impactful projects.
+
+🚀 Always building, learning, and exploring new technologies.
+
 </td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
