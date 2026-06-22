@@ -10,9 +10,18 @@
   <a href="https://www.linkedin.com/in/saurabh-kumar-jha-282399328/"><img src="https://img.shields.io/badge/LinkedIn-10002B?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
   <a href="https://my-portfolio-one-blond-95.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10002B?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
+
 # 💫 About Me
 A passionate B.Tech Computer Science student and Software Development Engineer with a strong interest in building scalable applications, solving real-world problems through technology, and continuously exploring emerging innovations in software engineering. Currently, I'm focused on strengthening my expertise in modern web technologies, DevOps practices, and AI-powered applications while continuously learning and building impactful projects.
 🚀 Always building, learning, and exploring new technologies.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
 
 # 💻 Tech Stack
 <div align="center">
@@ -33,6 +42,9 @@ A passionate B.Tech Computer Science student and Software Development Engineer w
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhkumarjha05&layout=compact&theme=tokyonight&hide_border=true" />
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
 
 ## 🏆 Certifications
 
@@ -50,7 +62,9 @@ A passionate B.Tech Computer Science student and Software Development Engineer w
 - Machine Learning for Disease Prediction
 - Deep Learning for Medical Imaging
 - AI for Social Good
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
 ## 🏅 Achievements
 
 🥇 Winner – Hack'n Tech Internal College Hackathon
@@ -70,5 +84,12 @@ A passionate B.Tech Computer Science student and Software Development Engineer w
 - 🔍 I am equally fascinated by AI models and scalable backend architectures.
 - 🛠️ If a technology looks challenging, I usually end up learning it.
 - 🌱 Constantly exploring new tools, frameworks, and development workflows.
-  
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div> 
+<!-- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" /> -->
+<!-- Footer -->
+<br>
+<p align="center">
+  <i><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=16&duration=4000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=400&lines=Let's+build+something+extraordinary." alt="Footer quote" /></i>
+</p>
