@@ -49,16 +49,15 @@ Currently, I'm focused on strengthening my expertise in **Modern Web Development
   <br><br>
 
   <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,git,github,vscode&theme=dark" />
-  <br>
-  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
-</div>
-  
-  <br>
+  <br><br>
 
   <img src="https://skillicons.dev/icons?i=linux,mongodb,postman,figma,render&theme=dark" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Saurabhkumarjha05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <img src="https://streak-stats.demolab.com?user=Saurabhkumarjha05&theme=tokyonight&hide_border=true&background=0D1117" />
@@ -124,5 +123,5 @@ Currently, I'm focused on strengthening my expertise in **Modern Web Development
 <!-- Footer -->
 <br>
 <p align="center">
-  <i><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=16&duration=4000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=400&lines=Let's+build+something+extraordinary." alt="Footer quote" /></i>
+  <i><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=16&duration=4000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=400&lines=Let's+build+For+Future+Growth." alt="Footer quote" /></i>
 </p>
