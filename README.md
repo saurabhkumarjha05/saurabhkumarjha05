@@ -87,6 +87,7 @@ Currently, I'm focused on strengthening my expertise in **Modern Web Development
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
+
 ## 🏅 Achievements
 
 🥇 Winner – Hack'n Tech Internal College Hackathon
@@ -123,5 +124,5 @@ Currently, I'm focused on strengthening my expertise in **Modern Web Development
 <!-- Footer -->
 <br>
 <p align="center">
-  <i><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=16&duration=4000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=400&lines=Let's+build+For+Future+Growth." alt="Footer quote" /></i>
+  <i><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=16&duration=4000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=400&lines=Learning+never+Stops.+Neither+does+Debugging." alt="Footer quote" /></i>
 </p>
