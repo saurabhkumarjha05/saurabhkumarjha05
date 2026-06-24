@@ -21,7 +21,7 @@
 <tr>
 <td width="60%" valign="top">
 
-A passionate **B.Tech Computer Science student** and aspiring **Software Development Engineer** with a strong interest in building scalable applications, solving real-world problems through technology, and continuously exploring emerging innovations in software engineering.
+A passionate **B.Tech Computer Science student** and **Software Development Engineer** with a strong interest in building scalable applications, solving real-world problems through technology, and continuously exploring emerging innovations in software engineering.
 Currently, I'm focused on strengthening my expertise in **Modern Web Development, DevOps, Cloud Computing, Artificial Intelligence, and System Design** while continuously learning and building impactful projects.
 
 🚀 Always building, learning, and exploring new technologies.
