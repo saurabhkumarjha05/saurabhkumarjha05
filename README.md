@@ -40,7 +40,7 @@ Currently, I'm focused on strengthening my expertise in **Modern Web Development
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
-# 💻 Tech Stack
+# 💻 Technical Skill
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql&theme=dark" />
   <br><br>
