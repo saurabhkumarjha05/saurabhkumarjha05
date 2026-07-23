@@ -60,7 +60,6 @@ Currently, I'm focused on strengthening my expertise in **Modern Web Development
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saurabhkumarjha05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-
 <img src="https://streak-stats.demolab.com?user=Saurabhkumarjha05&theme=tokyonight&hide_border=true&background=0D1117" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhkumarjha05&layout=compact&theme=tokyonight&hide_border=true" />
