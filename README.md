@@ -130,4 +130,3 @@ Currently, I'm focused on strengthening my expertise in **Modern Web Development
 <p align="center">
   <i><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=16&duration=4000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=400&lines=Learning+never+Stops.+Neither+does+Debugging." alt="Footer quote" /></i>
 </p>
-
